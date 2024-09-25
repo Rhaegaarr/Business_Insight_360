@@ -4,7 +4,7 @@
 
 **AtliQ Business Insights 360** is an advanced data analytics project designed to enhance various facets of **AtliQ Hardware**'s business operations. This includes **Finance**, **Sales**, **Supply Chain**, **Executive Management**, and **Marketing**. The project leverages **Power BI** to deliver actionable insights, optimize performance, and support data-driven decision-making.
 
-Link to Dashboard - https://app.powerbi.com/groups/me/reports/375b493a-e29c-4af9-91b4-436e4d07230d/8983d0224b408e05eb98?experience=power-bi
+### Link to Dashboard - https://app.powerbi.com/groups/me/reports/375b493a-e29c-4af9-91b4-436e4d07230d/8983d0224b408e05eb98?experience=power-bi
 ---
 
 
